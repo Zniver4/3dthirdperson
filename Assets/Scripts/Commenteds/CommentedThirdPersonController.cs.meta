@@ -14,5 +14,5 @@ AssetOrigin:
   productId: 278977
   packageName: EasyStart Third Person Controller
   packageVersion: 1.0
-  assetPath: Assets/EasyStart Third Person Controller/Scripts/Commenteds/CommentedThirdPersonController.cs
+  assetPath: Assets/Scripts/Commenteds/CommentedThirdPersonController.cs
   uploadId: 649404

@@ -1,11 +1,7 @@
 fileFormatVersion: 2
-guid: 78bfe315ac0ad9b4da8c8e1f992d6ccc
-MonoImporter:
+guid: 929289f54db756f449b2dd082f73d74b
+DefaultImporter:
   externalObjects: {}
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -14,5 +10,5 @@ AssetOrigin:
   productId: 278977
   packageName: EasyStart Third Person Controller
   packageVersion: 1.0
-  assetPath: Assets/Scripts/CameraController.cs
+  assetPath: Assets/EasyStart Third Person Controller/Demo.unity
   uploadId: 649404
